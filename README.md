@@ -4,7 +4,7 @@
 
 ![CI](https://github.com/larissa-abboud/eodflow/actions/workflows/ci.yml/badge.svg)
 
-**Status:** 🚧 In active development. See the [roadmap](docs/ROADMAP.md).
+**Status:** 🚧 In active development.
 
 ---
 
