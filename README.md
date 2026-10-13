@@ -63,7 +63,6 @@ domain    →  Trade, MarketPrice, position / valuation / P&L calculators (pure 
 
 The **workflow engine knows nothing about finance**, and the **finance code knows nothing about the engine**. Each is tested on its own.
 
-More: [Architecture](docs/ARCHITECTURE.md) · [API](docs/API.md) · [Finance concepts](docs/FINANCE.md) · [Decisions](docs/adr)
 
 ## Run it locally
 
@@ -88,7 +87,7 @@ Run the tests: `./mvnw verify`
 
 ## Results
 
-_Filled in after the timing test: sequential vs parallel run time._ See [docs/PERFORMANCE.md](docs/PERFORMANCE.md).
+_Filled in after the timing test: sequential vs parallel run time.
 
 ## Roadmap
 
